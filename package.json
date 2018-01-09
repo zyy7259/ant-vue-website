@@ -1,0 +1,22 @@
+{
+  "name": "ant-vue-website",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyy7259/ant-vue-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyy7259/ant-vue-website/issues"
+  },
+  "homepage": "https://github.com/zyy7259/ant-vue-website#readme"
+}
